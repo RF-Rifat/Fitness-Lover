@@ -79,40 +79,40 @@ export function Footer({ title, description, socials, menus, copyright }) {
 }
 
 Footer.defaultProps = {
-  title: "Material Tailwind",
+  title: "Fitness-Lover",
   description:
     "Easy to use React components for Tailwind CSS and Material Design.",
   socials: [
     {
       color: "gray",
       name: "twitter",
-      path: "https://www.twitter.com/creativetim",
+      path: "https://www.twitter.com",
     },
     {
       color: "gray",
       name: "youtube",
-      path: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w",
+      path: "https://www.youtube.com",
     },
     {
       color: "gray",
       name: "instagram",
-      path: "https://www.instagram.com/creativetimofficial/",
+      path: "https://www.instagram.com",
     },
     {
       color: "black",
       name: "github",
-      path: "https://github.com/creativetimofficial/material-tailwind",
+      path: "https://github.com/Ariful-Islam80",
     },
   ],
   menus: [
     {
       name: "useful links",
       items: [
-        { name: "About Us", path: "https://www.creative-tim.com/presentation" },
-        { name: "Blog", path: "https://www.creative-tim.com/blog" },
+        { name: "About Us", path: "" },
+        { name: "Blog", path: "" },
         {
           name: "Github",
-          path: "https://www.github.com/creativetimofficial/material-tailwind?ref=mtk",
+          path: "https://github.com/Ariful-Islam80",
         },
         {
           name: "Free Products",
